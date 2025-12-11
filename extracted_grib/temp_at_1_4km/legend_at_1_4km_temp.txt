@@ -1,0 +1,1 @@
+Temperature range at 850 hPa: 274.95 K to 289.38 K
